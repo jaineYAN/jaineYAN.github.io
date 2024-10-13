@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a second-year MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust.edu.hk/). My research focuses on **Human–Computer Interaction and Ergonomics**. Currently, I am working on **Smart Assistive Technology Design to Empower Older Adults (i.e., Seniors) to Cope with Motor, Cognitive, Emotional, and Social Challenges**. 
 
-I am fortunate to be advised by [Prof. Dengbo He](https://ce.hkust.edu.hk/people/dengbo-he-hedengbo) and [Prof. Mingming Fan](https://www.mingmingfan.com/) at HKUST. My current research examines the **cognitive load** in interactions between older adults and Level 3 autonomous driving systems. Additionally, I collaborate with Tsinghua University on a project exploring cognitive training for older adults through product prototyping. 
+I am fortunate to be advised by [Prof. Dengbo He](https://ce.hkust.edu.hk/people/dengbo-he-hedengbo) and [Prof. Mingming Fan](https://www.mingmingfan.com/) at HKUST. My current research examines the cognitive load in interactions between older adults and Level 3 autonomous driving systems. Additionally, I collaborate with Tsinghua University on a project exploring cognitive training for older adults through product prototyping. 
 
 During my studies, I have interned as a UX/UI design intern at companies such as **NetEase**, **Syncore**, and **Inceptio Technology**, where I gained a deep understanding of design workflows and demonstrated strong problem-solving abilities. 
 
